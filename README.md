@@ -9,14 +9,14 @@ Nodemon: Restarts the server automatically during development when files are cha
 
 📁 Project Structure
 Bookstore-backend/
-│── models/           # Database schemas and models (e.g., Book.js)
-│── routes/           # API endpoints (e.g., bookRoutes.js)
-│── controllers/      # Business logic for book operations
-│── config/           # Configuration settings (e.g., database connection)
-│── middleware/       # Custom middleware (e.g., error handling, authentication)
-│── server.js         # Main entry point for backend
-│── .env              # Environment variables
-│── package.json      # Dependencies and scripts
+models/           # Database schemas and models (e.g., Book.js)
+routes/           # API endpoints (e.g., bookRoutes.js)
+controllers/      # Business logic for book operations
+config/           # Configuration settings (e.g., database connection)
+middleware/       # Custom middleware (e.g., error handling, authentication)
+server.js         # Main entry point for backend
+.env              # Environment variables
+package.json      # Dependencies and scripts
 
 
 ⚡ Key Features (CRUD Operations)
