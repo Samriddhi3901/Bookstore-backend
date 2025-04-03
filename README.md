@@ -45,7 +45,7 @@ cd Bookstore-backend
 2️⃣ Install Dependencies
 npm install
 3️⃣ Configure Environment Variables
-Create a .env file in the root directory and add:t
+Create a .env file in the root directory and add:t 
 PORT=5000
 MONGO_URI="your_mongodb_connection_string"
 4️⃣ Start the Server
